@@ -1,0 +1,8 @@
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\TescoApi\TescoApi\bin\Debug\TescoApi.exe.config
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\TescoApi\TescoApi\obj\Debug\TescoApi.csprojResolveAssemblyReference.cache
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\TescoApi\TescoApi\bin\Debug\TescoApi.exe
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\TescoApi\TescoApi\bin\Debug\TescoApi.pdb
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\TescoApi\TescoApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\TescoApi\TescoApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\TescoApi\TescoApi\obj\Debug\TescoApi.exe
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\TescoApi\TescoApi\obj\Debug\TescoApi.pdb
